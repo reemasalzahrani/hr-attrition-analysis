@@ -1,5 +1,7 @@
 # Employee Attrition Analysis (IBM HR Dataset)
 
+![HR Attrition Dashboard](Dashboard.png)
+
 Dataset: IBM HR Analytics Employee Attrition & Performance (Kaggle)
 
 Records: 1,470 employees
